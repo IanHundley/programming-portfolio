@@ -1,6 +1,6 @@
 ## OOP Calculator for Programming 1
 
-![Calculator](Calc01.png?raw=true)
+![Calculator]()
 
 ## Overview
 This is a calculator
