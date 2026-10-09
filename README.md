@@ -28,6 +28,8 @@ All buttons are clickable so click through the calculations you want!
 
 Keyboard:
 every number and operator works but only the "*" and "=" work on the keypad to the left of the "QWERTY" keyboard.
+the key "enter" is used to output the answer
+to clear the shell, click "x"
 To square the number click "s"
 to cube the number click "c"
 To square root the number click "r"
