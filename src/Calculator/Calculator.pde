@@ -154,6 +154,10 @@ void keyPressed() {
     handleEvent('²', false);
   } else if (keyCode == 67) {
     handleEvent('³', false);
+  } else if (keyCode == 70) {
+    handleEvent('!', false);
+  } else if (keyCode == 88) {
+    handleEvent('C', false);
   }
 }
 
