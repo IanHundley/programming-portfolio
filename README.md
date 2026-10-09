@@ -1,6 +1,6 @@
 ## OOP Calculator for Programming 1
 
-![Calculator]()
+![Calculator](https://github.com/IanHundley/programming-portfolio/blob/main/images/calc01.png)
 
 ![Link to source code](https://github.com/IanHundley/programming-portfolio/blob/main/src/Calculator/Calculator.pde)
 
@@ -18,26 +18,27 @@ Still in progress:
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
+Processing version: 4.0.1
 
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+The folder is labeled "Calculator"
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+All buttons are clickable so click through the calculations you want!
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+every number and operator works but only the "*" and "=" work on the keypad to the left of the "QWERTY" keyboard.
+To square the number click "s"
+to cube the number click "c"
+To square root the number click "r"
+To factorial the number click "f"
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+All files are proccessing
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+typing "1+1" on the keyboard outputs "2.0"
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+I would add more buttons, maybe scientific calculator.
+Fix backspace
