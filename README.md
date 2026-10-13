@@ -27,8 +27,9 @@ Mouse:
 All buttons are clickable so click through the calculations you want!
 
 Keyboard:
-every number and operator works but only the "*" and "=" work on the keypad to the left of the "QWERTY" keyboard.
-the key "enter" is used to output the answer
+every number and operator works but only the "*" and "=" work on the keypad to the right of the "QWERTY" keyboard.(Because of overlapping keyCodes, clicking "M" will multiply the current number by the next one you put in)
+The "+" symbol on the keyboard adds but doesn't output the final product because "enter" does that
+the both "enter" keys are used to output the answer
 to clear the shell, click "x"
 To square the number click "s"
 to cube the number click "c"
