@@ -2,7 +2,7 @@
 
 ![Calculator](https://github.com/IanHundley/programming-portfolio/blob/main/images/calc01.png)
 
-![Link to source code](https://github.com/IanHundley/programming-portfolio/blob/main/src/Calculator/Calculator.pde)
+[Link to source code](https://github.com/IanHundley/programming-portfolio/blob/main/src/Calculator/Calculator.pde)
 
 ## Overview
 This is a calculator
