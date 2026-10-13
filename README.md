@@ -11,7 +11,7 @@ This is a calculator
 Working:
 - All basic calculations work
 - Extra four buttons on the bottom
-- Calculator also works with keyboard only
+- Calculator also works with keyboard
 
 Still in progress:
 - Backspace (top left button) still needs to be coded into this calculator
@@ -27,7 +27,7 @@ Mouse:
 All buttons are clickable so click through the calculations you want!
 
 Keyboard:
-every number and operator works but only the "*" and "=" work on the keypad to the right of the "QWERTY" keyboard.(Because of overlapping keyCodes, clicking "M" will multiply the current number by the next one you put in)
+Every number and operator works but only the "*" and "=" work on the keypad to the right of the "QWERTY" keyboard.(Because of overlapping keyCodes, clicking "M" will multiply the current number by the next one you put in)
 The "+" symbol on the keyboard adds but doesn't output the final product because "enter" does that
 the both "enter" keys are used to output the answer
 to clear the shell, click "x"
