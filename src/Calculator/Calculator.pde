@@ -138,13 +138,13 @@ void keyPressed() {
     handleEvent('0', true);
   } else if (keyCode == 45 || keyCode == 109) { // Start of op buttons
     handleEvent('-', false);
-  } else if (keyCode == 107) {
+  } else if (keyCode == 107 || keyCode == 61) {
     handleEvent('+', false);
   } else if (keyCode == 46 || keyCode == 110) {
     handleEvent('.', false);
   } else if (keyCode == 47 || keyCode == 111) {
     handleEvent('÷', false);
-  } else if (keyCode == 106) {
+  } else if (keyCode == 106 || keyCode == 77) {
     handleEvent('×', false);
   } else if (keyCode == 10) {
     handleEvent('=', false);
